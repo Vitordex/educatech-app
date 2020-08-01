@@ -1,4 +1,4 @@
-package com.projecttest2;
+package com.educatechapp;
 
 import android.os.Bundle;
 

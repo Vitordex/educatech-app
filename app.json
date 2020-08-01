@@ -1,9 +1,9 @@
 {
-  "name": "projecttest2",
-  "displayName": "projecttest2",
+  "name": "educatechApp",
+  "displayName": "educatechApp",
   "expo": {
-    "name": "projecttest2",
-    "slug": "projecttest2",
+    "name": "educatechApp",
+    "slug": "educatechApp",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

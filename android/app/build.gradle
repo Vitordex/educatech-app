@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.projecttest2"
+        applicationId "com.educatechapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

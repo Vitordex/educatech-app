@@ -1,4 +1,4 @@
-package com.projecttest2.generated;
+package com.educatechapp.generated;
 
 import java.util.Arrays;
 import java.util.List;
